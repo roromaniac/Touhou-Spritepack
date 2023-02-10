@@ -1,0 +1,18 @@
+title: Touhou Sprite Pack
+description: Testing to see if this thing even works
+assets:
+- name: remastered/obj/PRIZE.mdlx/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/obj/PRIZE.mdlx/-0.dds
+- name: remastered/obj/PRIZE.mdlx/-1.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/obj/PRIZE.mdlx/-1.dds
+- name: remastered/field2d/us/al0field.2dd/US_al0field_2dd1.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/field2d/us/al0field.2dd/US_al0field_2dd1.png
