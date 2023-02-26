@@ -16,3 +16,52 @@ assets:
   method: copy
   source:
   - name: remastered/field2d/us/al0field.2dd/US_al0field_2dd1.png
+- name: remastered/itempic/item-226.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-226.imd/-0.dds
+- name: remastered/itempic/item-227.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-227.imd/-0.dds
+- name: remastered/itempic/item-231.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-231.imd/-0.dds
+- name: remastered/itempic/item-234.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-234.imd/-0.dds
+- name: remastered/itempic/item-235.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-235.imd/-0.dds
+- name: remastered/itempic/item-236.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-236.imd/-0.dds
+- name: remastered/itempic/item-237.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-237.imd/-0.dds
+- name: msg/us/sys.bar
+  multi:
+  - name: msg/fr/sys.bar
+  - name: msg/gr/sys.bar
+  - name: msg/it/sys.bar
+  - name: msg/sp/sys.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: msg/sys.yml
+      language: en
