@@ -1,12 +1,12 @@
 - id: 0x3B1B
-  en: Cirno Fumo
+  en: '{:color #00FFFF80}Cirno Fumo'
 - id: 0x3B1C
   en: >-
     {:width 95}The strongest fumo in all of Gensokyo!
     
     Keep this away from flower ladies!
 - id: 0x3B0B
-  en: Reimu Fumo
+  en: '{:color #FF000080}Reimu Fumo'
 - id: 0x3B0C
   en: >-
     A fumo of the Hakuri Shrine maiden.
@@ -15,7 +15,7 @@
     
     all these incidents going on.
 - id: 0x3B0D
-  en: Alice Fumo
+  en: '{:color #1957bd80}Alice Fumo'
 - id: 0x3B0E
   en: >-
     {:width 95}A plush doll of the Seven-Colored Puppeteer.
@@ -24,7 +24,7 @@
     
     several magical properties.
 - id: 0x4C55
-  en: Bootleg Alice Fumo
+  en: '{:color #40403d80}Bootleg Alice Fumo'
 - id: 0x4C56
   en: >-
     {:width 90}A fake plush doll of the Seven-Colored Puppeteer.
@@ -33,14 +33,14 @@
     
     and holds little value.
 - id: 0x3B15
-  en: Sanae Fumo
+  en: '{:color #12b80980}Sanae Fumo'
 - id: 0x3B16
   en: >-
     A fumo doll that's full of faith.
     
     Just having this fills you with energy and joy!
 - id: 0x3B1D
-  en: Utsuho Fumo
+  en: '{:color #f59d9d80}Utsuho Fumo'
 - id: 0x3B1E
   en: >-
     A plush doll of a nuclear bird-brain.
@@ -49,17 +49,17 @@
     
     a sense of anxiety.
 - id: 0x3B1F
-  en: Marisa Fumo
+  en: '{:color #d4d40680}Marisa Fumo'
 - id: 0x3B20
   en: >-
     A seemingly normal fumo of Marisa.
     
     Mini Hakkero is not included.
 - id: 0x3B21
-  en: Yuyuko Fumo
+  en: '{:color #DF40DF80}Yuyuko Fumo'
 - id: 0x3B22
   en: >-
-    The fumo of Yuyuko Saigyouji.
+    The fumo of {:color #DF40DF80}Yuyuko Saigyouji{:reset}.
     
     Despite Yuyuko being a ghost, this fumo
     
