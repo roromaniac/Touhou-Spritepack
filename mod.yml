@@ -1,5 +1,5 @@
 title: Touhou Sprite Pack
-description: Replaces HP/MP/Munny/Drive Orbs with various item drops from the Touhou series!
+description: Replaces HP/MP/Munny/Drive Orbs with various item drops from the Touhou series! Additionally replaces useless junk items with Fumos!
 assets:
 #PC ONLY
 - name: remastered/obj/PRIZE.mdlx/-0.dds
@@ -137,7 +137,16 @@ assets:
   method: copy
   source:
   - name: remastered/itempic/item-237.imd/-0.dds
+- name: remastered/itempic/item-360.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/Remilia.dds
 #Patching/PS2?
+- name: itempic/item-360.imd
+  method: imd
+  source:
+  - name: itempic/Remilia.imd
 - name: itempic/item-226.imd
   method: copy
   source:
@@ -181,3 +190,23 @@ assets:
     source:
     - name: msg/sys.yml
       language: en
+- name: 03system.bin
+  method: binarc
+  source:
+  - name: item #Custom Fumos
+    type: list
+    method: listpatch
+    source:
+    - name: 03system.bin/ItemList.yml
+      type: item
+- name: remastered/msg/jp/fontimage.bar/JP_fontimage_bar2.png
+  multi:
+  - name: remastered/msg/us/fontimage.bar/US_fontimage_bar2.png
+  - name: remastered/msg/fr/fontimage.bar/FR_fontimage_bar2.png
+  - name: remastered/msg/gr/fontimage.bar/GR_fontimage_bar2.png
+  - name: remastered/msg/it/fontimage.bar/IT_fontimage_bar2.png
+  - name: remastered/msg/sp/fontimage.bar/SP_fontimage_bar2.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/fontimage_bar2.png

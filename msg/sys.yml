@@ -2,14 +2,14 @@
   en: '{:color #00FFFF80}Cirno Fumo'
 - id: 0x3B1C
   en: >-
-    {:width 95}The strongest fumo in all of Gensokyo!
+    {:width 95}{:color #00FFFF80}The strongest fumo in all of Gensokyo!{:reset}
     
     Keep this away from flower ladies!
 - id: 0x3B0B
   en: '{:color #FF000080}Reimu Fumo'
 - id: 0x3B0C
   en: >-
-    A fumo of the Hakuri Shrine maiden.
+    A fumo of the {:color #FF000080}Hakuri Shrine Maiden{:reset}.
     
     Her expression seems rather displeased with
     
@@ -18,20 +18,20 @@
   en: '{:color #1957bd80}Alice Fumo'
 - id: 0x3B0E
   en: >-
-    {:width 95}A plush doll of the Seven-Colored Puppeteer.
+    {:width 95}A plush doll of the {:color #1957bd80}Seven-Colored Puppeteer{:reset}.
     
     This appears to be the real deal and holds
     
     several magical properties.
 - id: 0x4C55
-  en: '{:color #40403d80}Bootleg Alice Fumo'
+  en: '{:color #80051580}Remilia Fumo'
 - id: 0x4C56
   en: >-
-    {:width 90}A fake plush doll of the Seven-Colored Puppeteer.
+    {:width 90}A plush doll of the {:color #80051580}Scarlet Mistress Remilia{:reset}!
     
-    Upon closer inspection, this fumo appears to be a fake
+    Unlike the real Remilia, this isn't hurt by the sun.
     
-    and holds little value.
+    Beware of fangs however!
 - id: 0x3B15
   en: '{:color #12b80980}Sanae Fumo'
 - id: 0x3B16
@@ -52,7 +52,7 @@
   en: '{:color #d4d40680}Marisa Fumo'
 - id: 0x3B20
   en: >-
-    A seemingly normal fumo of Marisa.
+    A seemingly normal fumo of {:color #d4d40680}Marisa{:reset}.
     
     Mini Hakkero is not included.
 - id: 0x3B21
@@ -64,3 +64,47 @@
     Despite Yuyuko being a ghost, this fumo
     
     is not. Just keep food away from it!
+- id: 0x0634
+  en: '{:color #cc5e1f80}Blazing Sign'
+- id: 0x0635
+  en: >-
+    Flames appear and revolve around you.
+    
+    {:width 90}Use from the Danmaku Command. {:color #F0F00080}MP Cost:{:width 100} 12{:reset}
+- id: 0x0636
+  en: '{:color #63acff80}Freeze Sign'
+- id: 0x0637
+  en: >-
+    Unleashes ice crystals at the target.
+    
+    {:width 90}Use from the Danmaku Command. {:color #F0F00080}MP Cost:{:width 100} 15{:reset}
+- id: 0x0638
+  en: '{:color #c4c40880}Spark Sign'
+- id: 0x0639
+  en: >-
+    Drops lightning bolts on the target.
+    
+    {:width 90}Use from the Danmaku Command. {:color #F0F00080}MP Cost:{:width 100} 18{:reset}
+- id: 0x063A
+  en: '{:color #3f9c3580}Life Sign'
+- id: 0x063B
+  en: >-
+    Restores HP.
+    
+    {:width 90}Use from the Danmaku Command. {:color #F0F00080}MP Cost:{:width 100} All{:reset}
+- id: 0x063C
+  en: '{:color #96178880}Gather Sign'
+- id: 0x063D
+  en: >-
+    Emits a power that draws in the enemy.
+    
+    {:width 90}Use from the Danmaku Command. {:color #F0F00080}MP Cost:{:width 100} 30{:reset}
+- id: 0x063E
+  en: '{:color #c2c2c280}Shield Sign'
+- id: 0x063F
+  en: >-
+    Fends and shoots back enemy attacks.
+    
+    {:width 90}Use from the Danmaku Command. {:color #F0F00080}MP Cost:{:width 100} 10{:reset}
+- id: 0x01E1
+  en: Danmaku
