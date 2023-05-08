@@ -127,3 +127,19 @@ Items:
   Picture: 234
   Icon1: 0
   Icon2: 207
+#Wisdom Form (Cirno)
+- Id: 27
+  Type: Form
+  Flag0: 1
+  Flag1: 0
+  Rank: C
+  StatEntry: 0
+  Name: 34372
+  Description: 34373
+  ShopBuy: 0
+  ShopSell: 0
+  Command: 7
+  Slot: 2
+  Picture: 267
+  Icon1: 208
+  Icon2: 208

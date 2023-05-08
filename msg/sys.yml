@@ -108,3 +108,52 @@
     {:width 90}Use from the Danmaku Command. {:color #F0F00080}MP Cost:{:width 100} 10{:reset}
 - id: 0x01E1
   en: Danmaku
+- id: 0x01E6
+  en: '{:color #0BCBFF80}Fairy Form'
+- id: 0x0644
+  en: '{:color #0BCBFF80}Fairy Form'
+- id: 0x3BCC
+  en: '{:color #0BCBFF80}Auto Fairy'
+- id: 0x3353
+  en: '{:color #0BCBFF80}Fairy'
+- id: 0x432B
+  en: '{:color #0BCBFF80}Fairy'
+- id: 0x45AB
+  en: '{:color #0BCBFF80}Fairy LV'
+- id: 0x363B
+  en: Fairy Shot
+- id: 0x0645
+  en: >-
+    With Donald´s help, use 
+    
+    the Drive Command to change
+    
+    into {:color #0BCBFF80}Fairy Form{:reset}.
+- id: 0x3BCD
+  en: >-
+    Automatically sets the Reaction
+    
+    Command to {:color #0BCBFF80}Fairy{:reset} in a pinch, if
+    
+    {:color #0BCBFF80}Fairy Form{:reset} is usable.
+- id: 0x457F
+  en: >-
+    The Form gauge for {:color #0BCBFF80}Fairy Form{:reset}.
+    
+    The longer the gauge, the longer
+    
+    the time spent transformed.
+- id: 0x4B90
+  en: >-
+    {:color #0BCBFF80}Fairy Form{:reset} Status.
+    
+    A Form specializing in magic attacks.
+    
+    {:color #F0F00080}Drive points consumed: 3{:reset}
+- id: 0x4B90
+  en: >-
+    {:color #0BCBFF80}Fairy Form{:reset} Level. Time spent
+    
+    transformed becomes longer, and
+    
+    Abilities become stronger by leveling up.
