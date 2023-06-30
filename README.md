@@ -8,11 +8,11 @@ A mod that replaces various item drop sprites in KH2, as well as various junk it
 - Blue Point Tiles = None. Haven't implemented them yet
 
 List of currently available/findable Fumo's:
-Reimu = Crystal Orb
-Alice = Seifer's Trophy
-Remilia = "The Struggle" Trophy
-Sanae = Namine's Sketches
-Cirno = Auron's Statue
-Utsuho = Cursed Medallion
-Marisa = Present
-Yuyuko = Decoy Presents
+- Reimu = Crystal Orb
+- Alice = Seifer's Trophy
+- Remilia = "The Struggle" Trophy
+- Sanae = Namine's Sketches
+- Cirno = Auron's Statue
+- Utsuho = Cursed Medallion
+- Marisa = Present
+- Yuyuko = Decoy Presents
