@@ -27,3 +27,5 @@ Vortex Pull = Magnega
 Graze = Reflect
 Barrier = Reflera
 Duplex Shield = Reflega
+
+IMPORTANT NOTE: Since the spell names have custom colors attached to them, the usual signal in the text to indicate MP Charge will NOT take affect!
