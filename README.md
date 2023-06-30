@@ -1,5 +1,5 @@
 # Touhou-Spritepack
-A small set of sprite replacements for the commonly dropped orbs in KH2 on PC.
+A mod that replaces various item drop sprites in KH2, as well as various junk items being replaced with Fumo's.
 
 - Red P Tiles = HP Orbs
 - Yellow Tiles = Munny
@@ -7,6 +7,12 @@ A small set of sprite replacements for the commonly dropped orbs in KH2 on PC.
 - Pink Cherry Tiles = MP Orbs
 - Blue Point Tiles = None. Haven't implemented them yet
 
-Addtionally various useless items (Such as Auron's Statue) have been replaced with various Touhou Fumo Plushes!
-
-There's also a secret change somewhere hidden (that totally isn't a left over of something planned)
+List of currently available/findable Fumo's:
+Reimu = Crystal Orb
+Alice = Seifer's Trophy
+Remilia = "The Struggle" Trophy
+Sanae = Namine's Sketches
+Cirno = Auron's Statue
+Utsuho = Cursed Medallion
+Marisa = Present
+Yuyuko = Decoy Presents
