@@ -157,6 +157,16 @@ assets:
   method: copy
   source:
   - name: remastered/itempic/Remilia.dds
+- name: remastered/itempic/item-009.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-009.imd/-0.dds
+- name: remastered/itempic/item-010.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-010.imd/-0.dds
 #Patching/PS2?
 - name: itempic/item-360.imd
   method: imd
@@ -190,6 +200,14 @@ assets:
   method: copy
   source:
   - name: itempic/Yuyuko2.imd
+- name: itempic/item-009.imd
+  method: imd
+  source:
+  - name: itempic/Drive.imd
+- name: itempic/item-010.imd
+  method: imd
+  source:
+  - name: itempic/HighDrive.imd
 #Texts
 - name: msg/us/sys.bar
   multi:
@@ -225,3 +243,23 @@ assets:
   method: copy
   source:
   - name: remastered/fontimage_bar2.png
+- name: remastered/menu/fr/title.2ld/FR_title_2ld1.png
+  multi:
+  - name: remastered/menu/gr/title.2ld/GR_title_2ld1.png
+  - name: remastered/menu/it/title.2ld/IT_title_2ld1.png
+  - name: remastered/menu/sp/title.2ld/SP_title_2ld1.png
+  - name: remastered/menu/uk/title.2ld/UK_title_2ld1.png
+  - name: remastered/menu/us/title.2ld/US_title_2ld1.png
+  method: copy
+  source:
+  - name: title_2ld1.png
+- name: remastered/menu/fr/pause.2ld/FR_pause_2ld1
+  multi:
+  - name: remastered/menu/gr/pause.2ld/GR_pause_2ld1.dds
+  - name: remastered/menu/it/pause.2ld/IT_pause_2ld1.dds
+  - name: remastered/menu/sp/pause.2ld/SP_pause_2ld1.dds
+  - name: remastered/menu/uk/pause.2ld/UK_pause_2ld1.dds
+  - name: remastered/menu/us/pause.2ld/US_pause_2ld1.dds
+  method: copy
+  source:
+  - name: Dance Reimu.dds
