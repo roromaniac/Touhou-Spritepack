@@ -111,6 +111,22 @@ Items:
   Picture: 237
   Icon1: 0
   Icon2: 207
+#Poster (Koishi)
+- Id: 366
+  Type: Recipe
+  Flag0: 0
+  Flag1: 0
+  Rank: C
+  StatEntry: 0
+  Name: 47889
+  Description: 47890
+  ShopBuy: 0
+  ShopSell: 0
+  Command: 0
+  Slot: 192
+  Picture: 229
+  Icon1: 0
+  Icon2: 207
 #Auron's Statue (Cirno)
 - Id: 371
   Type: Recipe

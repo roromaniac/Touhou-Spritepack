@@ -167,6 +167,11 @@ assets:
   method: copy
   source:
   - name: remastered/itempic/item-010.imd/-0.dds
+- name: remastered/itempic/item-229.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/Koishi.png
 #Patching/PS2?
 - name: itempic/item-360.imd
   method: imd
@@ -208,6 +213,10 @@ assets:
   method: imd
   source:
   - name: itempic/HighDrive.imd
+- name: itempic/item-229.imd
+  method: imd
+  source:
+  - name: itempic/KoishiSD.imd
 #Texts
 - name: msg/us/sys.bar
   multi:

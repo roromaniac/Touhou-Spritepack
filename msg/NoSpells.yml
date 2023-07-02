@@ -36,18 +36,18 @@
   en: '{:color #12b80980}Sanae Fumo'
 - id: 0x3B16
   en: >-
-    A fumo doll that's full of faith.
+    A plush doll of the living god {:color #12b80980}Sanae Kochiya{:reset}!
     
-    Just having this fills you with energy and joy!
+    Just having this fills you with spirit and joy!
 - id: 0x3B1D
   en: '{:color #f59d9d80}Utsuho Fumo'
 - id: 0x3B1E
   en: >-
-    A plush doll of a nuclear bird-brain.
+    A plush doll of a {:color #f59d9d80}nuclear bird-brain{:reset}.
     
-    For some reason this thing gives off 
+    For some reason this thing feels rather warm to
     
-    a sense of anxiety.
+    the touch. It's rather anxiety inducing...
 - id: 0x3B1F
   en: '{:color #d4d40680}Marisa Fumo'
 - id: 0x3B20
@@ -64,6 +64,15 @@
     Despite Yuyuko being a ghost, this fumo
     
     is not. Just keep food away from it!
+- id: 0x3B11
+  en: '{:color #a3ff9e80}Koishi Fumo'
+- id: 0x3B12
+  en: >-
+    A plush doll of your {:color #a3ff9e80}invisible friend{:reset}!
+    
+    Though you might not remember it, this fumo 
+    
+    has always been with you.
 - id: 0x0634
   en: '{:color #cc5e1f80}Blazing Sign'
 - id: 0x0635
@@ -238,64 +247,28 @@
     Flames appear and revolve around you.
     
     {:width 90}Use from the Danmaku Command. {:color #F0F00080}MP Cost:{:width 100} 12{:reset}
-- id: 0x0508
-  en: '{:color #cc5e1f80}Agni'
-- id: 0x0509
-  en: '{:color #cc5e1f80}{:width 80}Flame Wheel'
-- id: 0x050A
-  en: '{:color #cc5e1f80}{:width 85}Giga Flare'
 - id: 0x0637
   en: >-
     Unleashes ice crystals at the target.
     
     {:width 90}Use from the Danmaku Command. {:color #F0F00080}MP Cost:{:width 100} 15{:reset}
-- id: 0x050E
-  en: '{:color #63acff80}Icicle'
-- id: 0x050F
-  en: '{:color #63acff80}Hailstorm'
-- id: 0x0510
-  en: '{:color #63acff80}{:width 66}Perfect Freeze'
 - id: 0x0639
   en: >-
     Drops lightning bolts on the target.
     
     {:width 90}Use from the Danmaku Command. {:color #F0F00080}MP Cost:{:width 100} 18{:reset}
-- id: 0x050B
-  en: '{:color #c4c40880}Thunderbolt'
-- id: 0x050C
-  en: '{:color #c4c40880}Discharge'
-- id: 0x050D
-  en: '{:color #c4c40880}{:width 66}Stardust Surge'
 - id: 0x063B
   en: >-
     Restores HP.
     
     {:width 90}Use from the Danmaku Command. {:color #F0F00080}MP Cost:{:width 100} All{:reset}
-- id: 0x0511
-  en: '{:color #3f9c3580}Life Piece'
-- id: 0x0512
-  en: '{:color #3f9c3580}Extend'
-- id: 0x0513
-  en: '{:color #3f9c3580}Phoenix'
 - id: 0x063D
   en: >-
     Emits a power that draws in the enemy.
     
     {:width 90}Use from the Danmaku Command. {:color #F0F00080}MP Cost:{:width 100} 30{:reset}
-- id: 0x0514
-  en: '{:color #96178880}Whirl'
-- id: 0x0515
-  en: '{:color #96178880}Telekinesis'
-- id: 0x0516
-  en: '{:color #96178880}{:width 80}Vortex Pull'
 - id: 0x063F
   en: >-
     Fends and shoots back enemy attacks.
     
     {:width 90}Use from the Danmaku Command. {:color #F0F00080}MP Cost:{:width 100} 10{:reset}
-- id: 0x0517
-  en: '{:color #c2c2c280}Graze'
-- id: 0x0518
-  en: '{:color #c2c2c280}Barrier'
-- id: 0x0519
-  en: '{:color #c2c2c280}{:width 72}Duplex Shield'
