@@ -64,6 +64,15 @@
     Despite Yuyuko being a ghost, this fumo
     
     is not. Just keep food away from it!
+- id: 0x3B11
+  en: '{:color #a3ff9e80}Koishi Fumo'
+- id: 0x3B12
+  en: >-
+    A plush doll of your {:color #a3ff9e80}invisible friend{:reset}!
+    
+    Though you might not remember it, this fumo 
+    
+    has always been with you.
 - id: 0x0634
   en: '{:color #cc5e1f80}Blazing Sign'
 - id: 0x0635
