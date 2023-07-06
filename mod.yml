@@ -127,6 +127,11 @@ assets:
   method: copy
   source:
   - name: remastered/itempic/item-227.imd/-0.dds
+  - name: remastered/itempic/item-229.imd/-0.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/itempic/item-229.imd/-0.dds
 - name: remastered/itempic/item-231.imd/-0.dds
   platform: pc
   method: copy
