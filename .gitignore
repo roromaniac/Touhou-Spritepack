@@ -1,0 +1,7 @@
+# pyinstaller
+dist
+build
+randomize_sprites.spec
+
+# pycache
+__pycache__
