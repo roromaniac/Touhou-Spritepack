@@ -1,274 +1,272 @@
-title: Touhou Sprite Pack
-description: Replaces many various things in KH2 with things from Touhou Project! (READ "Spellnames.txt" regarding changed spell names)
 assets:
-#PC ONLY
-- name: remastered/obj/PRIZE.mdlx/-0.dds
+- method: copy
+  name: remastered/obj/PRIZE.mdlx/-0.dds
   platform: pc
-  method: copy
   source:
   - name: remastered/obj/PRIZE.mdlx/-0.dds
-- name: remastered/obj/PRIZE.mdlx/-1.dds
+- method: copy
+  name: remastered/obj/PRIZE.mdlx/-1.dds
   platform: pc
-  method: copy
   source:
   - name: remastered/obj/PRIZE.mdlx/-1.dds
-- name: remastered/obj/P_EX100_MAGF.mdlx/-0.dds
+- method: copy
+  name: remastered/obj/P_EX100_MAGF.mdlx/-0.dds
   platform: pc
-  method: copy
   source:
   - name: remastered/obj/P_EX100_MAGF.mdlx/-0.dds
-- name: remastered/obj/P_EX100_MAGF.mdlx/-1.dds
+- method: copy
+  name: remastered/obj/P_EX100_MAGF.mdlx/-1.dds
   platform: pc
-  method: copy
   source:
   - name: remastered/obj/P_EX100_MAGF.mdlx/-1.dds
-- name: remastered/obj/P_EX100_MAGF.a.us/-2.dds
+- method: copy
+  name: remastered/obj/P_EX100_MAGF.a.us/-2.dds
   platform: pc
-  method: copy
   source:
   - name: remastered/obj/P_EX100_MAGF.a.us/-2.dds
-- name: remastered/field2d/us/al0field.2dd/US_al0field_2dd1.png
+- method: copy
+  name: remastered/field2d/us/al0field.2dd/US_al0field_2dd1.png
   platform: pc
-  method: copy
   source:
   - name: remastered/field2d/us/al0field.2dd/US_al0field_2dd1.png
-- name: remastered/field2d/us/bb0field.2dd/US_bb0field_2dd1.png
+- method: copy
+  name: remastered/field2d/us/bb0field.2dd/US_bb0field_2dd1.png
   platform: pc
-  method: copy
   source:
   - name: remastered/field2d/us/bb0field.2dd/US_bb0field_2dd1.png
-- name: remastered/field2d/us/ca0field.2dd/US_ca0field_2dd1.png
+- method: copy
+  name: remastered/field2d/us/ca0field.2dd/US_ca0field_2dd1.png
   platform: pc
-  method: copy
   source:
   - name: remastered/field2d/us/ca0field.2dd/US_ca0field_2dd1.png
-- name: remastered/field2d/us/dc0field.2dd/US_dc0field_2dd1.png
+- method: copy
+  name: remastered/field2d/us/dc0field.2dd/US_dc0field_2dd1.png
   platform: pc
-  method: copy
   source:
   - name: remastered/field2d/us/dc0field.2dd/US_dc0field_2dd1.png
-- name: remastered/field2d/us/di0field.2dd/US_di0field_2dd1.png
+- method: copy
+  name: remastered/field2d/us/di0field.2dd/US_di0field_2dd1.png
   platform: pc
-  method: copy
   source:
   - name: remastered/field2d/us/di0field.2dd/US_di0field_2dd1.png
-- name: remastered/field2d/us/eh0field.2dd/US_eh0field_2dd1.png
+- method: copy
+  name: remastered/field2d/us/eh0field.2dd/US_eh0field_2dd1.png
   platform: pc
-  method: copy
   source:
   - name: remastered/field2d/us/eh0field.2dd/US_eh0field_2dd1.png
-- name: remastered/field2d/us/es0field.2dd/US_es0field_2dd1.png
+- method: copy
+  name: remastered/field2d/us/es0field.2dd/US_es0field_2dd1.png
   platform: pc
-  method: copy
   source:
   - name: remastered/field2d/us/es0field.2dd/US_es0field_2dd1.png
-- name: remastered/field2d/us/hb0field.2dd/US_hb0field_2dd1.png
+- method: copy
+  name: remastered/field2d/us/hb0field.2dd/US_hb0field_2dd1.png
   platform: pc
-  method: copy
   source:
   - name: remastered/field2d/us/hb0field.2dd/US_hb0field_2dd1.png
-- name: remastered/field2d/us/he0field.2dd/US_he0field_2dd1.png
+- method: copy
+  name: remastered/field2d/us/he0field.2dd/US_he0field_2dd1.png
   platform: pc
-  method: copy
   source:
   - name: remastered/field2d/us/he0field.2dd/US_he0field_2dd1.png
-- name: remastered/field2d/us/lk0field.2dd/US_lk0field_2dd1.png
+- method: copy
+  name: remastered/field2d/us/lk0field.2dd/US_lk0field_2dd1.png
   platform: pc
-  method: copy
   source:
   - name: remastered/field2d/us/lk0field.2dd/US_lk0field_2dd1.png
-- name: remastered/field2d/us/mu0field.2dd/US_mu0field_2dd1.png
+- method: copy
+  name: remastered/field2d/us/mu0field.2dd/US_mu0field_2dd1.png
   platform: pc
-  method: copy
   source:
   - name: remastered/field2d/us/mu0field.2dd/US_mu0field_2dd1.png
-- name: remastered/field2d/us/nm0field.2dd/US_nm0field_2dd1.png
+- method: copy
+  name: remastered/field2d/us/nm0field.2dd/US_nm0field_2dd1.png
   platform: pc
-  method: copy
   source:
   - name: remastered/field2d/us/nm0field.2dd/US_nm0field_2dd1.png
-- name: remastered/field2d/us/po0field.2dd/US_po0field_2dd1.png
+- method: copy
+  name: remastered/field2d/us/po0field.2dd/US_po0field_2dd1.png
   platform: pc
-  method: copy
   source:
   - name: remastered/field2d/us/po0field.2dd/US_po0field_2dd1.png
-- name: remastered/field2d/us/tr0field.2dd/US_tr0field_2dd1.png
+- method: copy
+  name: remastered/field2d/us/tr0field.2dd/US_tr0field_2dd1.png
   platform: pc
-  method: copy
   source:
   - name: remastered/field2d/us/tr0field.2dd/US_tr0field_2dd1.png
-- name: remastered/field2d/us/tt0field.2dd/US_tt0field_2dd1.png
+- method: copy
+  name: remastered/field2d/us/tt0field.2dd/US_tt0field_2dd1.png
   platform: pc
-  method: copy
   source:
   - name: remastered/field2d/us/tt0field.2dd/US_tt0field_2dd1.png
-- name: remastered/field2d/us/wi0field.2dd/US_wi0field_2dd1.png
+- method: copy
+  name: remastered/field2d/us/wi0field.2dd/US_wi0field_2dd1.png
   platform: pc
-  method: copy
   source:
   - name: remastered/field2d/us/wi0field.2dd/US_wi0field_2dd1.png
-- name: remastered/field2d/us/wm0field.2dd/US_wm0field_2dd1.png
+- method: copy
+  name: remastered/field2d/us/wm0field.2dd/US_wm0field_2dd1.png
   platform: pc
-  method: copy
   source:
   - name: remastered/field2d/us/wm0field.2dd/US_wm0field_2dd1.png
-- name: remastered/field2d/us/zz0field.2dd/US_zz0field_2dd1.png
+- method: copy
+  name: remastered/field2d/us/zz0field.2dd/US_zz0field_2dd1.png
   platform: pc
-  method: copy
   source:
   - name: remastered/field2d/us/zz0field.2dd/US_zz0field_2dd1.png
-- name: remastered/itempic/item-226.imd/-0.dds
+- method: copy
+  name: remastered/itempic/item-226.imd/-0.dds
   platform: pc
-  method: copy
   source:
   - name: remastered/itempic/item-226.imd/-0.dds
-- name: remastered/itempic/item-227.imd/-0.dds
+- method: copy
+  name: remastered/itempic/item-227.imd/-0.dds
   platform: pc
-  method: copy
-  source:
-  - name: remastered/itempic/item-227.imd/-0.dds
-- name: remastered/itempic/item-231.imd/-0.dds
-  platform: pc
-  method: copy
-  source:
-  - name: remastered/itempic/item-231.imd/-0.dds
-- name: remastered/itempic/item-234.imd/-0.dds
-  platform: pc
-  method: copy
   source:
   - name: remastered/itempic/item-234.imd/-0.dds
-- name: remastered/itempic/item-235.imd/-0.dds
+- method: copy
+  name: remastered/itempic/item-231.imd/-0.dds
   platform: pc
-  method: copy
-  source:
-  - name: remastered/itempic/item-235.imd/-0.dds
-- name: remastered/itempic/item-236.imd/-0.dds
-  platform: pc
-  method: copy
-  source:
-  - name: remastered/itempic/item-236.imd/-0.dds
-- name: remastered/itempic/item-237.imd/-0.dds
-  platform: pc
-  method: copy
   source:
   - name: remastered/itempic/item-237.imd/-0.dds
-- name: remastered/itempic/item-360.imd/-0.dds
+- method: copy
+  name: remastered/itempic/item-234.imd/-0.dds
   platform: pc
-  method: copy
+  source:
+  - name: remastered/itempic/item-235.imd/-0.dds
+- method: copy
+  name: remastered/itempic/item-235.imd/-0.dds
+  platform: pc
+  source:
+  - name: remastered/itempic/item-236.imd/-0.dds
+- method: copy
+  name: remastered/itempic/item-236.imd/-0.dds
+  platform: pc
+  source:
+  - name: remastered/itempic/item-229.imd/-0.dds
+- method: copy
+  name: remastered/itempic/item-237.imd/-0.dds
+  platform: pc
+  source:
+  - name: remastered/itempic/item-227.imd/-0.dds
+- method: copy
+  name: remastered/itempic/item-360.imd/-0.dds
+  platform: pc
   source:
   - name: remastered/itempic/Remilia.dds
-- name: remastered/itempic/item-009.imd/-0.dds
+- method: copy
+  name: remastered/itempic/item-009.imd/-0.dds
   platform: pc
-  method: copy
   source:
   - name: remastered/itempic/item-009.imd/-0.dds
-- name: remastered/itempic/item-010.imd/-0.dds
+- method: copy
+  name: remastered/itempic/item-010.imd/-0.dds
   platform: pc
-  method: copy
   source:
   - name: remastered/itempic/item-010.imd/-0.dds
-- name: remastered/itempic/item-229.imd/-0.dds
+- method: copy
+  name: remastered/itempic/item-229.imd/-0.dds
   platform: pc
-  method: copy
   source:
   - name: remastered/itempic/Koishi.png
-#Patching/PS2?
-- name: itempic/item-360.imd
-  method: imd
+- method: imd
+  name: itempic/item-360.imd
   source:
   - name: itempic/Remilia.imd
-- name: itempic/item-226.imd
-  method: copy
+- method: copy
+  name: itempic/item-226.imd
   source:
   - name: itempic/Reimu2.imd
-- name: itempic/item-227.imd
-  method: copy
+- method: copy
+  name: itempic/item-227.imd
   source:
   - name: itempic/Alice2.imd
-- name: itempic/item-231.imd
-  method: copy
+- method: copy
+  name: itempic/item-231.imd
   source:
   - name: itempic/Sanae2.imd
-- name: itempic/item-234.imd
-  method: copy
+- method: copy
+  name: itempic/item-234.imd
   source:
   - name: itempic/Cirno2.imd
-- name: itempic/item-235.imd
-  method: copy
+- method: copy
+  name: itempic/item-235.imd
   source:
   - name: itempic/Utsuho2.imd
-- name: itempic/item-236.imd
-  method: copy
+- method: copy
+  name: itempic/item-236.imd
   source:
   - name: itempic/Marisa2.imd
-- name: itempic/item-237.imd
-  method: copy
+- method: copy
+  name: itempic/item-237.imd
   source:
   - name: itempic/Yuyuko2.imd
-- name: itempic/item-009.imd
-  method: imd
+- method: imd
+  name: itempic/item-009.imd
   source:
   - name: itempic/Drive.imd
-- name: itempic/item-010.imd
-  method: imd
+- method: imd
+  name: itempic/item-010.imd
   source:
   - name: itempic/HighDrive.imd
-- name: itempic/item-229.imd
-  method: imd
+- method: imd
+  name: itempic/item-229.imd
   source:
   - name: itempic/KoishiSD.imd
-#Texts
-- name: msg/us/sys.bar
+- method: binarc
   multi:
   - name: msg/fr/sys.bar
   - name: msg/gr/sys.bar
   - name: msg/it/sys.bar
   - name: msg/sp/sys.bar
-  method: binarc
+  name: msg/us/sys.bar
   source:
-  - name: sys
-    type: list
-    method: kh2msg
+  - method: kh2msg
+    name: sys
     source:
-    - name: msg/sys.yml
-      language: en
-- name: 03system.bin
-  method: binarc
-  source:
-  - name: item #Custom Fumos
+    - language: en
+      name: msg/sys.yml
     type: list
-    method: listpatch
+- method: binarc
+  name: 03system.bin
+  source:
+  - method: listpatch
+    name: item
     source:
     - name: 03system.bin/ItemList.yml
       type: item
-- name: remastered/msg/jp/fontimage.bar/JP_fontimage_bar2.png
+    type: list
+- method: copy
   multi:
   - name: remastered/msg/us/fontimage.bar/US_fontimage_bar2.png
   - name: remastered/msg/fr/fontimage.bar/FR_fontimage_bar2.png
   - name: remastered/msg/gr/fontimage.bar/GR_fontimage_bar2.png
   - name: remastered/msg/it/fontimage.bar/IT_fontimage_bar2.png
   - name: remastered/msg/sp/fontimage.bar/SP_fontimage_bar2.png
+  name: remastered/msg/jp/fontimage.bar/JP_fontimage_bar2.png
   platform: pc
-  method: copy
   source:
   - name: remastered/fontimage_bar2.png
-- name: remastered/menu/fr/title.2ld/FR_title_2ld1.png
+- method: copy
   multi:
   - name: remastered/menu/gr/title.2ld/GR_title_2ld1.png
   - name: remastered/menu/it/title.2ld/IT_title_2ld1.png
   - name: remastered/menu/sp/title.2ld/SP_title_2ld1.png
   - name: remastered/menu/uk/title.2ld/UK_title_2ld1.png
   - name: remastered/menu/us/title.2ld/US_title_2ld1.png
-  method: copy
+  name: remastered/menu/fr/title.2ld/FR_title_2ld1.png
   source:
   - name: title_2ld1.png
-- name: remastered/menu/fr/pause.2ld/FR_pause_2ld1
+- method: copy
   multi:
   - name: remastered/menu/gr/pause.2ld/GR_pause_2ld1.dds
   - name: remastered/menu/it/pause.2ld/IT_pause_2ld1.dds
   - name: remastered/menu/sp/pause.2ld/SP_pause_2ld1.dds
   - name: remastered/menu/uk/pause.2ld/UK_pause_2ld1.dds
   - name: remastered/menu/us/pause.2ld/US_pause_2ld1.dds
-  method: copy
+  name: remastered/menu/fr/pause.2ld/FR_pause_2ld1
   source:
   - name: Dance Reimu.dds
+description: Replaces many various things in KH2 with things from Touhou Project!
+  (READ "Spellnames.txt" regarding changed spell names)
+title: Touhou Sprite Pack
